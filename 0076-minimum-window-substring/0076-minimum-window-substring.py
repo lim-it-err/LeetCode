@@ -42,3 +42,4 @@ class Solution:
                 else:
                     self.cur_counter[s[right_cur]] = 1
         return s[history_x+1:history_y+1]
+        
